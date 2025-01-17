@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BD3NNY
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning HTML/CSS
+- 👀 I’m interested in starting a career in cyber security
+- 🌱 I’m currently working on obtaining my "Google Cybersecurity Certificate", "CompTIA-Security+",and activley learning
+  about emerging technologies and potential security risks
 - 💞️ I’m looking to collaborate on many things in the future
 - 📫 How to reach me waterisformless72@gmail.com
 
